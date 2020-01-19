@@ -1,0 +1,13 @@
+#content>div {
+    background-color:#eee;
+}
+
+#content img {
+    cursor: pointer;
+}
+
+@media (min-width: 992px){
+    #formatdiv{
+        position: fixed;
+    }
+}
